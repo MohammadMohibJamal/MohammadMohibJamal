@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and AI.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on designing web pages and apps.
-- 📫 Email- mohmdmohibjamal@gmail.com
+- 📫 Email- mohammadmohibjamal@gmail.com
 
 <!---
 MohammadMohibJamal/MohammadMohibJamal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
